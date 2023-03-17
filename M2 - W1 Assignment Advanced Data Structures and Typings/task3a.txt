@@ -1,0 +1,13 @@
+# typing is a standard library
+from typing import List, Dict
+
+
+def GetData(name: str, id: int, degree: float, startyear: int, endyear: str) -> List[Dict[str, int]]: 
+	return [{"name": name, "id": id, "degree":degree, "startyear":startyear, "endyear":endyear}]
+
+print(GetData()) #data1
+print(GetData()) #data2
+print(GetData())  #data3
+print(GetData()) #data4
+
+
