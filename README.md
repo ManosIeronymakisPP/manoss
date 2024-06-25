@@ -1,1 +1,1 @@
-In this repository I store all the solutions for my weekly assigments in my master.
+In this repository, I store all the solutions to my weekly assignments for my Data Science master's program, as well as the results and code for my final thesis.
